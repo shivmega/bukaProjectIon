@@ -1,0 +1,7 @@
+{
+  "name": "bukaProjectIon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
